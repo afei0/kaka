@@ -1,0 +1,31 @@
+a{
+  text-decoration: none;
+}
+#root>img{
+  padding-top: 150px;
+  padding-bottom: 0;
+}
+#root>p{
+  font-size: 36px;
+  margin: 0 auto;
+  width: 160px;
+  margin-bottom: 50px;
+
+}
+#root>span{
+  font-size: 30px;
+  margin: 0 auto;
+  display: block;
+  width: 260px;
+  margin-bottom: 200px;
+
+}
+#his{
+  width: 260px;
+  margin: 0 auto;
+  font-size: 38px;
+  display: block;
+  background-color: red;
+  border-radius: 10px;
+  color:#fff;
+}

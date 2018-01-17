@@ -1,0 +1,10 @@
+.register>img{
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.register>#submit{
+  margin-top: 50px;
+}

@@ -1,0 +1,23 @@
+.tip{
+  width: 100vw;
+  height: 100vh;
+  background:rgba(0,0,0,0.7);
+}
+.tip p{
+  line-height: 48px;
+  color:#3ED1B3;
+  font-size: 26px;
+}
+.tip ul{
+  position: relative;
+  bottom: -66%;
+  padding: 0;
+  background-color: #fff;
+}
+.tip{
+  text-align: center;
+}
+.tip li{
+  list-style: none;
+
+}

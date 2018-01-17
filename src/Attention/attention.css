@@ -1,0 +1,54 @@
+.attention{
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.7);
+  padding-top: 120px;
+}
+.attention>img{
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+
+}
+.attention>p{
+  font-size: 18px;
+  line-height: 50px;
+  width: 75%;
+  margin: 0 auto;
+  color:#fff;
+}
+.attention>p:nth-child(2){
+  line-height: 80px;
+  width: 160px;
+  margin: 0 auto;
+  font-size: 38px;
+}
+.attention>p:nth-child(5){
+  border-top: 1px solid #ddd;
+}
+.attention>p:nth-child(8){
+  margin-bottom: 70px;
+}
+.attention>button{
+  background-color: #333;
+  border:0;
+  width: 180px;
+  font-size: 30px;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: block;
+}
+.attention>div>input{
+  width: 50px;
+  margin: 0;
+  margin-top: 10px;
+}
+.attention>div{
+  margin-top: 20px;
+  display:flex;
+  justify-content: center;
+}
+.attention>div>span{
+font-size: 18px;
+color:#fff;
+}

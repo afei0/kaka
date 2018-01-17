@@ -1,0 +1,81 @@
+.task-0{
+  width: 100vw;
+  height: 100vh;
+}
+.task-1{
+  background-image: url(../images/13.png);
+  display: flex;
+}
+.task-2{
+  width: 50%;
+  height: 70%;
+  padding-top: 10%;
+  margin-left: 1%;
+  display: block;
+}
+.task-3{
+  color: #fff;
+  margin-top: 1%;
+  margin-left: 33%;
+  margin-bottom: 1%;
+}
+.task-4{
+  width: 100%;
+  margin: 0 auto;
+}
+.task-5{
+  width: 30%;
+  margin-left: 40%;
+  margin-top: 6%;
+}
+.task-6{
+  margin-left: 46%;
+}
+.task-7{
+  width: 4%;
+}
+.task-8{
+  width: 100%;
+  height: 2%;
+  background-color: #BEBEBE;
+}
+.task-9{
+  width: 96%;
+  margin: 0 auto;
+}
+.task-9 p{
+  font-size: 12px;
+  margin-left: 4%;
+}
+.task-12{
+  margin-top: 16%;
+}
+.task-13{
+  width: 4%;
+}
+.task-14{
+  font-size: 12px;
+}
+.task-15{
+  width: 10%;
+  margin-left: 5%;
+}
+.task-16{
+  font-size: 36px;
+}
+.task-17{
+  width: 100%;
+  height: 2%;
+  background-color: #BEBEBE;
+}
+.task-18{
+  background-image: url(../images/13.png);
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  padding-top: 1%;
+  height: 5%;
+  margin-top: 14%;
+}

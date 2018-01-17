@@ -1,0 +1,52 @@
+.found{
+  background-color: #ccc;
+}
+.foundTop{
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+.foundMin{
+  margin-top: 20px;
+  background-color: #fff;
+}
+.foundMin{
+  margin: 20px;
+  border-radius: 9px;
+  position: relative;
+}
+.foundMin .obj{
+  position: absolute;
+  top:-20px;
+  width: 40px;
+  height: 40px;
+
+}
+.foundMinTop{
+  display: flex;
+  justify-content: space-between;
+  margin:0 50px;
+}
+.foundMinTop span{
+  font-size: 24px;
+  color:blue;
+}
+.foundMinTop>img{
+  margin-right: -30px;
+  width: 30px;
+  height: 30px;
+}
+.foumd{
+  display: flex;
+  justify-content: space-between;
+}
+.foumd img{
+  width: 30%;
+}
+.foundDown{
+  display: flex;
+}
+.foundDown img{
+  width: 30px;
+}

@@ -1,0 +1,25 @@
+.searchTop{
+  display: flex;
+  justify-content: flex-end;
+  background-color: red;
+}
+.search{
+  height: 100vh;
+
+}
+.searchTop input{
+  background-color: #fff;
+  height: 20px;
+  margin: 20px 0;
+  width: 80%;
+  font-size: 14px;
+}
+.searchTop span{
+line-height: 80px;
+font-size: 20px;
+color:#fff;
+}
+.search>img{
+  margin-left: 30%;
+  margin-top: 50%;
+}

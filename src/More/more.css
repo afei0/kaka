@@ -1,0 +1,31 @@
+.more{
+  background-color: #ccc;
+}
+.mission>.mids>span>img{
+  width: 70px;
+}
+.mids{
+  display: flex;
+  justify-content: space-around;
+}
+.mission{
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+.mission>span>img{
+  width: 150px;
+  height: 100px;
+}
+.mission>.mids>span:nth-child(5)>img{
+  width: 50px;
+}
+.mids>span:nth-child(2){
+  margin-top: 20px;
+}
+.mids>span:nth-child(3)>img{
+  width: 30px;
+  margin-top: 40px;
+}
+.mids>span:nth-child(4){
+  margin-top: 40px;
+}

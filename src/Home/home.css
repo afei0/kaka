@@ -1,0 +1,180 @@
+.home .top{
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0px;
+}
+.homeFd a{
+  color:#fff;
+}
+.top a{
+  color:#fff;
+}
+.home .top span:nth-child(2) img{
+width: 30px;
+}
+.home .top span:nth-child(3) img{
+margin: 0 50px;
+}
+.banner{
+  overflow: hidden;
+}
+.banner .bannerSvg{
+  width: 300%;
+}
+.banner .bannerSvg img{
+  width: 100vw;
+  height: 200px;
+}
+.home-min{
+  background-color: #ccc;
+
+}
+.ent{
+  display: flex;
+  justify-content: space-around;
+
+}
+.entin{
+  width: 48%;
+  background-color: #fff;
+  border-radius: 6px;
+}
+.entin p{
+  font-size: 15px;
+}
+.entin span:nth-child(2) img{
+  width: 100px;
+  height: 50px;
+  display: block;
+}
+.home-min h1{
+  line-height: 38px;
+  font-size: 18px;
+  color:red;
+  text-align: center;
+}
+.entin span:nth-child(3) img{
+  margin-right: 10px;
+  width: 40px;
+}
+.entin span:nth-child(5) img{
+  margin-right: 10px;
+  margin-left: 40px;
+  width: 20px;
+}
+.entin span:nth-child(8) img{
+  width: 20px;
+  margin-left: 10px;
+}
+.entin span:nth-child(9){
+  font-size: 10px;
+}
+.homefm{
+  display: flex;
+  justify-content: space-around;
+}
+.homefm img{
+  width: 32%;
+  height: 130px;
+}
+.home-footer p{
+  font-size: 12px;
+  margin-left: 10px;
+  color:#555;
+}
+.homedown{
+  display: flex;
+  margin-bottom: 200px;
+}
+.homedown img{
+  width: 25px;
+}
+.homedown span:nth-child(1){
+  margin-left: 20px;
+}
+.homedown span{
+  margin-right: 20px;
+}
+.homeFd ul li img{
+  width: 30px;
+}
+.homeFd ul li:nth-child(3) img{
+  width: 60px;
+}
+.rewards{
+  position: absolute;
+  top:0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.7);
+  color:red;
+}
+.rewards>div{
+  margin: 0 auto;
+  position: relative;
+  background-color: #fff;
+  border-radius: 6px;
+  text-align: center;
+  width: 65%;
+  padding-top: 30px;
+  top:40%;
+}
+.entin a{
+  color:#222;
+}
+.rewards>div>img{
+  background-color: #000;
+  border-radius: 50%;
+  width: 80px;
+  position: absolute;
+  top: -40px;
+  left:40%;
+}
+.rewards>div>p{
+  font-size: 18px;
+  line-height: 10px;
+}
+
+.rewards>div>span{
+font-size: 18px;
+color:red;
+
+}
+.rewards>div>span:nth-child(3){
+font-size: 34px;
+}
+.rewards>div>p:nth-child(5){
+  margin-top: 40px;
+  color:#fff;
+  line-height: 30px;
+  background-color: red;
+  border-radius: 0 0 6px 6px;
+}
+
+.homeFd ul{
+  bottom:0;
+  width: 100vw;
+position: fixed;
+
+}
+.homeFd ul li{
+  list-style: none;
+  color:#ccc;
+  margin-top: 5px;
+  text-align: center;
+}
+.homeFd ul li:nth-child(3){
+  position: relative;
+  bottom:30px;
+}
+.homeFd ul li:nth-child(3) img{
+  padding: 5px;
+  border-radius: 50%;
+  background-color: #000;
+}
+.homeFd ul{
+  background-color: #000;
+  display: flex;
+  justify-content: space-around;
+}

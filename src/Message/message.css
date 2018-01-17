@@ -1,0 +1,21 @@
+.messagemin{
+  display: flex;
+  padding-top: 10px;
+  color:#555;
+}
+.messagemin>img{
+  margin-left: 10px;
+  width: 35px;
+  height: 35px;
+  margin-right: 15px;
+}
+.mess{
+  width: 80vw;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+
+}
+/*.mess span:nth-child(2){
+  text-align: right;
+}*/
